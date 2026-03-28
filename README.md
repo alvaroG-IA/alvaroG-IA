@@ -35,6 +35,17 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 
 ## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=alvaroG-IA&show_icons=true&theme=radical&count_private=true" alt="Alvaro's GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroG-IA&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 ![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroG-IA&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroG-IA&layout=compact&theme=radical)
 
