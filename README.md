@@ -25,7 +25,7 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 
 ## 🔬 Featured Research
 
-### AI for Digital Humanities: Hieroglyph Detection via Synthetic Data
+### 🐈‍⬛ AI for Digital Humanities: Hieroglyph Detection via Synthetic Data
 *Developing advanced training techniques to overcome data scarcity in archaeological tasks.*
 - **Key Focus:** Generating high-fidelity **synthetic Egyptian Hieroglyphs** to train robust detection and classification systems.
 - **Impact:** Enabling automated transcription and analysis of ancient scripts where labeled real-world data is severely limited.
