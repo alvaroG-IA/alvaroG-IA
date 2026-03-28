@@ -42,8 +42,8 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [Your Profile Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [https://www.linkedin.com/in/alvaro-garcia-velasco/]
+- **Email:** [alvarogarciavelasco1212@gmail.com]
 
 ---
 
