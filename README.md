@@ -2,14 +2,14 @@
 
 ### 🎓 AI Student & Computer Vision Researcher
 
-I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey Juan Carlos (URJC). My work focuses on bridging the gap between theoretical deep learning and practical applications, with a specialized interest in **Computer Vision** and **Multimodal AI**.
+I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey Juan Carlos (URJC). My work focuses on bridging the gap between theoretical deep learning and practical applications, with a specialized interest in **Computer Vision**, **Multimodal AI**, **LLMs**, and **Classic Machine Learning**.
 
 ---
 
 ## 🚀 About Me
 
 - 🔬 **Research:** Currently holding a **Research Collaboration Scholarship from the Spanish Ministry of Education** at URJC.
-- 🛠️ **What I do:** I specialize in training **image classification and detection models**, investigating how **synthetic data** can enhance model robustness and performance in scenarios with extreme data scarcity.
+- 🛠️ **What I do:** I specialize in training **image classification and detection models**. My current research involves developing techniques using **synthetic data** to enable the classification and detection of **Egyptian Hieroglyphs**, enhancing model robustness in domains with extreme data scarcity.
 - 🎯 **Goal:** Pursuing academic and technical excellence to contribute to the cutting edge of Artificial Intelligence.
 
 ---
@@ -17,19 +17,19 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** Python (Expert), C, C++, Java, SQL.
-- **AI & ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Scipy, Spacy, Pandas.
-- **Fields of Interest:** Computer Vision, Multimodal Learning (CLIP), Synthetic Data Generation, Deep Learning Architectures, Recommender Sistemns, LLMs, Clasical Machine Learning.
+- **AI & ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Scipy, SpaCy, Pandas.
+- **Fields of Interest:** Computer Vision, Multimodal Learning (CLIP), Synthetic Data Generation, Deep Learning Architectures, Recommender Systems, LLMs, Classic Machine Learning.
 - **Tools:** Git, Linux, LaTeX.
 
 ---
 
 ## 🔬 Featured Research
 
-### Optimization of Image Classification via Synthetic Data
-*Developing advanced training techniques to overcome data scarcity in computer vision tasks.*
-- **Key Focus:** Generating high-fidelity synthetic datasets to improve model generalization.
-- **Impact:** Enhancing detection systems in domains where real-world data is limited or unavailable.
-- **Tech:** PyTorch, Generative Models, OpenCV.
+### AI for Digital Humanities: Hieroglyph Detection via Synthetic Data
+*Developing advanced training techniques to overcome data scarcity in archaeological tasks.*
+- **Key Focus:** Generating high-fidelity **synthetic Egyptian Hieroglyphs** to train robust detection and classification systems.
+- **Impact:** Enabling automated transcription and analysis of ancient scripts where labeled real-world data is severely limited.
+- **Tech:** PyTorch, Synthetic Data Generation, OpenCV.
 
 ---
 
@@ -42,6 +42,5 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [https://www.linkedin.com/in/alvaro-garcia-velasco/]
-- **Email:** [alvarogarciavelasco1212@gmail.com]
-
+- **LinkedIn:** [https://www.linkedin.com/in/alvaro-garcia-velasco/](https://www.linkedin.com/in/alvaro-garcia-velasco/)
+- **Email:** [alvarogarciavelasco1212@gmail.com](mailto:alvarogarciavelasco1212@gmail.com)
