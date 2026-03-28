@@ -16,10 +16,10 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python (Expert), SQL, C++.
-- **AI & ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV.
-- **Fields of Interest:** Computer Vision, Multimodal Learning (CLIP), Synthetic Data Generation, Deep Learning Architectures.
-- **Tools:** Git, Docker, Linux, LaTeX.
+- **Languages:** Python (Expert), C, C++, Java, SQL.
+- **AI & ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Scipy, Spacy, Pandas.
+- **Fields of Interest:** Computer Vision, Multimodal Learning (CLIP), Synthetic Data Generation, Deep Learning Architectures, Recommender Sistemns, LLMs, Clasical Machine Learning.
+- **Tools:** Git, Linux, LaTeX.
 
 ---
 
@@ -29,7 +29,7 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 *Developing advanced training techniques to overcome data scarcity in computer vision tasks.*
 - **Key Focus:** Generating high-fidelity synthetic datasets to improve model generalization.
 - **Impact:** Enhancing detection systems in domains where real-world data is limited or unavailable.
-- **Tech:** PyTorch, Generative Models, [Add other specific libs here].
+- **Tech:** PyTorch, Generative Models, OpenCV.
 
 ---
 
@@ -45,6 +45,3 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 - **LinkedIn:** [https://www.linkedin.com/in/alvaro-garcia-velasco/]
 - **Email:** [alvarogarciavelasco1212@gmail.com]
 
----
-
-> *"Artificial Intelligence is not just about processing data; it's about teaching machines to understand the world."*
