@@ -33,14 +33,12 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvaroG-IA&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/alvaroG-IA/alvaroG-IA/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+[![](https://github-readme-stats.vercel.app/api?username=alvaroG-IA&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alvaroG-IA)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroG-IA&theme=material-palenight)](https://github.com/alvaroG-IA)
+</div>
 
 ---
 
