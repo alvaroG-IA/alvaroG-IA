@@ -1,5 +1,7 @@
 # Hi there! I'm Álvaro García 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroG-IA)](https://github.com/alvaroG-IA/github-readme-stats)
+
 ### 🎓 AI Student & Computer Vision Researcher
 
 I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey Juan Carlos (URJC). My work focuses on bridging the gap between theoretical deep learning and practical applications, with a specialized interest in **Computer Vision**, **Multimodal AI**, **LLMs**, and **Classic Machine Learning**.
