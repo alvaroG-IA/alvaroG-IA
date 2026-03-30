@@ -37,7 +37,7 @@ I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey
 
 ![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroG-IA&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroG-IA&layout=compact&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroG-IA&show_icons=true&bg_color=00000000)
 ---
 
 ## 📫 Connect with me
