@@ -1,5 +1,7 @@
 # Hi there! I'm Álvaro García 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvaroG-IA&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+
 ### 🎓 AI Student & Computer Vision Researcher
 
 I am a final-year **B.S. in Artificial Intelligence** student at Universidad Rey Juan Carlos (URJC). My work focuses on bridging the gap between theoretical deep learning and practical applications, with a specialized interest in **Computer Vision**, **Multimodal AI**, **LLMs**, and **Classic Machine Learning**.
