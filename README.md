@@ -29,16 +29,6 @@ I am a final-year **B.S. student in Artificial Intelligence** at Universidad Rey
 - **Key Focus:** Generating high-fidelity **synthetic Egyptian Hieroglyphs** to train robust detection and classification systems.
 - **Impact:** Enabling automated transcription and analysis of ancient scripts where labeled real-world data is severely limited.
 - **Tech:** PyTorch, Synthetic Data Generation, OpenCV.
-
-----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">📊 Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=alvaroG-IA&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alvaroG-IA)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroG-IA&theme=material-palenight)](https://github.com/alvaroG-IA)
-</div>
-
 ----
 
 ## 📫 Connect with me
