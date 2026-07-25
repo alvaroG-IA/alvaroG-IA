@@ -10,7 +10,7 @@ I am an **Artificial Intelligence Graduate** from Universidad Rey Juan Carlos (U
 
 - 🎓 **Education:** B.S. in Artificial Intelligence from Universidad Rey Juan Carlos (URJC).
 - 🔬 **Research:** Former **Ministry of Education Research Fellow** at URJC. Awarded **Distinction (Honors Proposal)** for my Bachelor's Thesis on domain adaptation and multimodal VLM alignment.
-- 🛠️ **Current Focus:** Representation learning in shared embedding spaces (CLIP), contrastive learning dynamics (InfoNCE), domain shift mitigation via synthetic data, and Quantum Machine Learning (QML).
+- 🛠️ **Current Focus:** Representation learning in shared embedding spaces (VLMs), contrastive learning dynamics (InfoNCE), domain shift mitigation via synthetic data.
 - 🎯 **Goal:** To pursue academic and technical excellence and contribute to cutting-edge advancements in Artificial Intelligence.
 
 ---
